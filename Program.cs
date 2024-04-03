@@ -30,7 +30,9 @@ namespace Inheritance
             laborder.name="Tazi dog";
             laborder.display();
             laborder.getName();
-            Console.ReadLine();
+            
+           // NaturalNumbers obj = new NaturalNumbers();
+            //obj.Ndisplay();
         }
     }
 }

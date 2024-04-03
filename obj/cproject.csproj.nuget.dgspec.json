@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\cproject\\cproject.csproj": {}
+    "D:\\cproject\\cproject.csproj": {}
   },
   "projects": {
-    "d:\\cproject\\cproject.csproj": {
+    "D:\\cproject\\cproject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\cproject\\cproject.csproj",
+        "projectUniqueName": "D:\\cproject\\cproject.csproj",
         "projectName": "cproject",
-        "projectPath": "d:\\cproject\\cproject.csproj",
+        "projectPath": "D:\\cproject\\cproject.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "d:\\cproject\\obj\\",
+        "outputPath": "D:\\cproject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
